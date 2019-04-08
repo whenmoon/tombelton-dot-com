@@ -7,16 +7,16 @@ background-color: burlywood;
 .main-bio {
 
   font-family: 'Cormorant Garamond', serif;
-  font-size: 45px;
+  font-size: 2.5em;
   text-align: justify;
   text-justify: inter-word;
   margin-top: 150px;
-  margin-left: 280px;
-  margin-right: 280px;
+  margin-left: 360px;
+  margin-right: 360px;
   margin-bottom: 180px;
 
 }
 
 #h1 {
-  font-size: 55px;
+  font-size: 1.4em;
 }
