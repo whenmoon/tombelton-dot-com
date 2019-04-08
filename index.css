@@ -14,24 +14,26 @@ background-color: burlywood;
   margin-left: 7.5em;
   margin-right: 7.5em;
   margin-bottom: 6.25em;
-
-  }
+  color: rgb(51, 137, 38)
+  
+}
 
 #h1 {
   font-size: 1.4em;
 }
 
 @media only screen and (max-width: 600px) {
-.main-bio {
-
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.2em;
-  text-align: justify;
-  text-justify: inter-word;
-  margin-top: 3em;
-  margin-left: 1.7em;
-  margin-right: 1.7em;
-  margin-bottom: 1em;
+  .main-bio {
+    
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2em;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-top: 3em;
+    margin-left: 1.7em;
+    margin-right: 1.7em;
+    margin-bottom: 1em;
+    color: rgb(51, 137, 38)
 
   }
 
