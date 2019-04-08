@@ -15,8 +15,28 @@ background-color: burlywood;
   margin-right: 7.5em;
   margin-bottom: 6.25em;
 
+  }
+
+
+@media only screen and (max-width: 600px) {
+.main-bio {
+
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2.5em;
+  text-align: justify;
+  text-justify: inter-word;
+  margin-top: 4.375em;
+  margin-left: 7.5em;
+  margin-right: 7.5em;
+  margin-bottom: 6.25em;
+
+  }
 }
+
 
 #h1 {
   font-size: 1.4em;
 }
+
+
+
