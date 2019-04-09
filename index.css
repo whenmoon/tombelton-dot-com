@@ -11,6 +11,7 @@ background-color: burlywood;
   letter-spacing: 0.06em;
   text-align: justify;
   text-justify: inter-word;
+  text-decoration: none;
   margin-top: 5.375em;
   margin-left: 11.5em;
   margin-right: 11.5em;
@@ -26,16 +27,16 @@ background-color: burlywood;
 @media only screen and (max-width: 600px) {
   .main-bio {
     
-    font-family: 'Cormorant Garamond', serif;
+    /* font-family: 'Cormorant Garamond', serif; */
     font-size: 1.2em;
-    letter-spacing: 0.06em;
-    text-align: justify;
-    text-justify: inter-word;
+    /* letter-spacing: 0.06em; */
+    /* text-align: justify; */
+    /* text-justify: inter-word; */
     margin-top: 3em;
     margin-left: 1.7em;
     margin-right: 1.7em;
     margin-bottom: 1em;
-    color: rgb(86, 91, 99)
+    /* color: rgb(86, 91, 99) */
 
   }
 
@@ -44,6 +45,10 @@ background-color: burlywood;
     text-align: left;
   }
 
+}
+
+a {
+  text-decoration:none;
 }
 
 
