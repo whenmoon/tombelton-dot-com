@@ -58,7 +58,7 @@
 @media only screen and (max-width: 600px) {
   .main-bio {
     font-size: 1.2em;
-    text-justify: left;
+    text-align: left;
     margin-top: 3em;
     margin-left: 1.7em;
     margin-right: 1.7em;
